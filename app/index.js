@@ -1,12 +1,12 @@
 import Koa from 'koa';
 import Router from 'koa-router';
 import graphqlHTTP from 'koa-graphql';
-import Schema from './graphql/schema';
+import Schema from './graphql/index';
 
 const app = new Koa();
 const router = new Router();
 
-router.get('/ping', function (ctx) {
+router.get('/ping', (ctx) => {
   ctx.body = 'pong';
 });
 
