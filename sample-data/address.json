@@ -1,0 +1,14 @@
+[
+    {
+        "id": "bd50a922-be11-43b6-a24e-05ddb6d45e3f",
+        "current": true,
+        "postcode": "LN11YG",
+        "street_number": 7
+    },
+    {
+        "id": "cf1f09c3-5db4-4155-94d3-6467ed86251e",
+        "current": false,
+        "postcode": "ST17GB",
+        "street_number": 24
+    }
+]
