@@ -18,13 +18,12 @@
     "graphql": "^0.11.3",
     "koa": "^2.3.0",
     "koa-graphql": "^0.7.3",
-    "koa-router": "^7.2.1",
-    "nodemon": "^1.12.0"
+    "koa-router": "^7.2.1"
   },
   "devDependencies": {
-    "babel-preset-airbnb": "^2.4.0",
     "eslint": "^4.1.1",
     "eslint-config-airbnb-base": "^12.0.0",
-    "eslint-plugin-import": "^2.7.0"
+    "eslint-plugin-import": "^2.7.0",
+    "nodemon": "^1.12.0"
   }
 }

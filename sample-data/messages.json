@@ -3,7 +3,7 @@
         "id": "897c1d0e-7d20-41da-936b-de4be810fadc",
         "created": "1505292310207",
         "updated": "1505292324156",
-        "message": "Hey Bob its Gavin",
+        "message": "Hey Bruce its Gavin",
         "to": "1429ea19-ebca-443f-a527-401e00d846f1"
     },
     {
@@ -17,28 +17,28 @@
         "id": "97fe1fdb-edf9-4cee-8642-1f11fcce2cd4",
         "created": "1505298466857",
         "updated": "1505298475431",
-        "message": "I've still got your lawnmower",
+        "message": "If you want it back you need to give me my strimmer",
         "to": "1429ea19-ebca-443f-a527-401e00d846f1"
     },
     {
         "id": "f63dd318-7dea-46b4-b965-88cb2b2366d8",
         "created": "1505298479365",
         "updated": "1505298485839",
-        "message": "I've still got your lawnmower",
-        "to": "1429ea19-ebca-443f-a527-401e00d846f1"
+        "message": "Thats my strimmer, you should get one of your own",
+        "to": "f6a74396-0ca0-43dc-8972-7a8518db62b7"
     },
     {
         "id": "b14e8a84-d837-4709-98a5-cb461c57c88c",
         "created": "1505298489630",
         "updated": "1505298494718",
-        "message": "I've still got your lawnmower",
+        "message": "How dare you, im calling Dorothy",
         "to": "1429ea19-ebca-443f-a527-401e00d846f1"
     },
     {
         "id": "1a99b090-f73f-4d76-86b3-2d8a7637b5ec",
         "created": "1505298498093",
         "updated": "1505298502229",
-        "message": "I've still got your lawnmower",
+        "message": "We've been divorced 5 years Gavin",
         "to": "1429ea19-ebca-443f-a527-401e00d846f1"
     }
 ]
